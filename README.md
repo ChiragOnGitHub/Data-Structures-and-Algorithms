@@ -20,3 +20,7 @@ Header File use in this program is [**StackHeaderForParenthesisValidator.hpp**](
 # Sorting
 
 - [**Sorting.cpp**](https://github.com/ChiragOnGitHub/Data-Structures-and-Algorithms/blob/main/Sorting.cpp) can sorts the array using Bubble Sort, Selection sort and insertion sort. Templates is used in this program so that you can pass array of any type
+
+# Queue
+
+- [**Queue.cpp**](https://github.com/ChiragOnGitHub/Data-Structures-and-Algorithms/blob/main/Queue.cpp) contain the implementation of queue using array.Templates is used so that you can create a queue of any type. 
